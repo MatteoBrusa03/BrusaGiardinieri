@@ -11,5 +11,8 @@ package com.mycompany.menuu;
  */
 public class Menu 
 {
-    
+    private void primoMetodo()
+    {
+      
+    }
 }
